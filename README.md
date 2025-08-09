@@ -84,7 +84,6 @@ VITE_PUSHER_APP_CLUSTER=mt1
 API endpoints are documented using **Postman**.
 
 - **Postman Collection Link:** [View API Documentation](https://.postman.co/workspace/My-Workspace~5d28b571-706a-4153-8630-e90751033ba6/collection/31087798-dc95dab1-e8f6-48f2-948a-7c46144923b0?action=share&creator=31087798)  
-  *(Replace `#` with your actual Postman collection URL)*
 
 - **Exported JSON:** See `/assets/Task Management API.postman_collection.json`
 
